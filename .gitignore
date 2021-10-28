@@ -57,3 +57,4 @@ codeship.aes
 
 # Ignore Lando local configuration
 /.lando.local.yml
+/*.sql.gz
